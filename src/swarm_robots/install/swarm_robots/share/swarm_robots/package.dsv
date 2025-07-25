@@ -1,0 +1,6 @@
+source;share/swarm_robots/hook/pythonpath.ps1
+source;share/swarm_robots/hook/pythonpath.dsv
+source;share/swarm_robots/hook/pythonpath.sh
+source;share/swarm_robots/hook/ament_prefix_path.ps1
+source;share/swarm_robots/hook/ament_prefix_path.dsv
+source;share/swarm_robots/hook/ament_prefix_path.sh

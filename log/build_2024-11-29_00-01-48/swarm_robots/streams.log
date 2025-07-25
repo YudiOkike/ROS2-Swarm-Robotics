@@ -1,0 +1,22 @@
+[0.813s] Invoking command in '/home/parallels/ros2_ws/src/swarm_robots': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/parallels/ros2_ws/build/swarm_robots/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parallels/ros2_ws/install/swarm_robots/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/swarm_robots build --build-base /home/parallels/ros2_ws/build/swarm_robots/build install --record /home/parallels/ros2_ws/build/swarm_robots/install.log --single-version-externally-managed install_data
+[1.096s] running egg_info
+[1.115s] writing ../../build/swarm_robots/swarm_robots.egg-info/PKG-INFO
+[1.116s] writing dependency_links to ../../build/swarm_robots/swarm_robots.egg-info/dependency_links.txt
+[1.116s] writing entry points to ../../build/swarm_robots/swarm_robots.egg-info/entry_points.txt
+[1.116s] writing requirements to ../../build/swarm_robots/swarm_robots.egg-info/requires.txt
+[1.116s] writing top-level names to ../../build/swarm_robots/swarm_robots.egg-info/top_level.txt
+[1.155s] reading manifest file '../../build/swarm_robots/swarm_robots.egg-info/SOURCES.txt'
+[1.155s] writing manifest file '../../build/swarm_robots/swarm_robots.egg-info/SOURCES.txt'
+[1.156s] running build
+[1.156s] running build_py
+[1.156s] running install
+[1.161s] running install_lib
+[1.181s] running install_data
+[1.181s] running install_egg_info
+[1.202s] removing '/home/parallels/ros2_ws/install/swarm_robots/lib/python3.12/site-packages/swarm_robots-0.0.0-py3.12.egg-info' (and everything under it)
+[1.202s] Copying ../../build/swarm_robots/swarm_robots.egg-info to /home/parallels/ros2_ws/install/swarm_robots/lib/python3.12/site-packages/swarm_robots-0.0.0-py3.12.egg-info
+[1.203s] running install_scripts
+[1.319s] Installing listener script to /home/parallels/ros2_ws/install/swarm_robots/lib/swarm_robots
+[1.319s] Installing talker script to /home/parallels/ros2_ws/install/swarm_robots/lib/swarm_robots
+[1.319s] writing list of installed files to '/home/parallels/ros2_ws/build/swarm_robots/install.log'
+[1.348s] Invoked command in '/home/parallels/ros2_ws/src/swarm_robots' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/parallels/ros2_ws/build/swarm_robots/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/parallels/ros2_ws/install/swarm_robots/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/swarm_robots build --build-base /home/parallels/ros2_ws/build/swarm_robots/build install --record /home/parallels/ros2_ws/build/swarm_robots/install.log --single-version-externally-managed install_data
